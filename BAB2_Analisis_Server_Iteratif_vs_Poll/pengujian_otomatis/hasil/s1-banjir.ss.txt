@@ -1,0 +1,8 @@
+# ss -ltn  (baris LISTEN: Recv-Q = koneksi antre belum di-accept)
+State  Recv-Q Send-Q Local Address:Port Peer Address:Port
+LISTEN 1      16         127.0.0.1:5000      0.0.0.0:*   
+
+# ss -tn  (Recv-Q = byte belum dibaca aplikasi, Send-Q = byte belum di-ACK peer)
+State Recv-Q Send-Q Local Address:Port Peer Address:Port 
+ESTAB 128512 0          127.0.0.1:5000    127.0.0.1:35884
+ESTAB 0      0          127.0.0.1:5000    127.0.0.1:35868

@@ -1,0 +1,13 @@
+  0.031s [penerima] terhubung dari port lokal 33580
+  0.534s [penerima] << *** ketik nama Anda lalu ENTER: 
+  0.536s [penerima] >> 'penerima\n'
+  1.039s [penerima] << *** selamat datang, penerima
+  1.041s [pengirim] terhubung dari port lokal 33588
+  1.544s [pengirim] << *** ketik nama Anda lalu ENTER: 
+  1.546s [pengirim] >> 'pengirim\n'
+  2.050s [pengirim] << *** selamat datang, pengirim
+  2.554s [penerima] << *** pengirim bergabung ke ruang chat
+  2.555s [pengirim] >> 'satu\r\ndua\ntiga\n'
+  3.060s [penerima] << [pengirim] satu
+  3.062s [penerima] << [pengirim] dua
+  3.063s [penerima] << [pengirim] tiga

@@ -1,0 +1,24 @@
+  0.032s [korban] terhubung dari port lokal 57330
+  0.535s [korban] << *** ketik nama Anda lalu ENTER: 
+  0.548s [korban] >> 'korban\n'
+  1.053s [korban] << *** selamat datang, korban
+  1.056s [lambat] terhubung dari port lokal 57342
+  1.559s [lambat] << *** ketik nama Anda lalu ENTER: 
+  1.564s [lambat] >> 'lambat\n'
+  2.068s [lambat] << *** selamat datang, lambat
+  2.071s [pengirim] terhubung dari port lokal 57344
+  2.575s [pengirim] << *** ketik nama Anda lalu ENTER: 
+  2.577s [pengirim] >> 'pengirim\n'
+  3.081s [pengirim] << *** selamat datang, pengirim
+  3.584s [korban] << *** lambat bergabung ke ruang chat
+  3.587s [korban] << *** pengirim bergabung ke ruang chat
+  4.089s [lambat] << *** pengirim bergabung ke ruang chat
+  4.092s [pengirim] mulai banjir baris 1501 byte
+  7.116s [korban] menerima 1797768 byte; terakhir pada 4.936s
+  7.118s [baru] terhubung (handshake sukses) dari port 42708; menunggu prompt...
+  8.622s [baru] << (tidak ada balasan)
+ 10.142s [pengirim] 3947 baris dititipkan ke kernel
+ 10.145s [korban] total diterima 1797768 byte; terakhir pada 4.936s
+ 10.148s [lambat] menutup koneksi tanpa membaca (RST)
+ 11.657s [baru] prompt diterima +4.539s setelah handshake: b'*** ketik nama Anda lalu ENTER: '
+ 12.660s [korban] setelah lambat keluar total diterima 2603736 byte

@@ -1,0 +1,32 @@
+  0.023s [diam] terhubung dari port lokal 60882
+  0.526s [diam] << *** ketik nama Anda lalu ENTER: 
+  0.529s [budi] terhubung dari port lokal 60890
+  1.032s [budi] << *** ketik nama Anda lalu ENTER: 
+  1.035s [budi] >> 'budi\n'
+  1.540s [budi] << *** selamat datang, budi
+  1.542s [sari] terhubung dari port lokal 60896
+  2.045s [sari] << *** ketik nama Anda lalu ENTER: 
+  2.046s [sari] >> 'sari\n'
+  2.550s [sari] << *** selamat datang, sari
+  3.054s [budi] << *** sari bergabung ke ruang chat
+  3.057s [andi] terhubung dari port lokal 60900
+  3.560s [andi] << *** ketik nama Anda lalu ENTER: 
+  3.561s [andi] >> 'andi\n'
+  4.065s [andi] << *** selamat datang, andi
+  4.567s [budi] << *** andi bergabung ke ruang chat
+  5.095s [sari] << *** andi bergabung ke ruang chat
+  5.096s [budi] >> 'halo semua\n'
+  5.599s [sari] << [budi] halo semua
+  6.103s [andi] << [budi] halo semua
+  6.606s [budi] << (tidak ada balasan)
+  7.109s [diam] << (tidak ada balasan)
+  7.112s [sari] >> '/who\n'
+  7.615s [sari] << *** pengguna online:
+  7.617s [sari] << ***   budi
+  7.619s [sari] << ***   sari (Anda)
+  7.621s [sari] << ***   andi
+  7.622s [andi] >> '/quit\n'
+  7.625s [andi] << (tidak ada balasan)
+  8.128s [budi] << *** andi meninggalkan ruang chat
+  8.630s [sari] << *** andi meninggalkan ruang chat
+  9.136s [sari] << *** budi meninggalkan ruang chat

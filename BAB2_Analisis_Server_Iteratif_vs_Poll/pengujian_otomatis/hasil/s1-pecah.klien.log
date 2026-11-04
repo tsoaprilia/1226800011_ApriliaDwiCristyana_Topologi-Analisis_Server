@@ -1,0 +1,7 @@
+  0.023s [A] terhubung dari port lokal 35862
+  0.025s [A] >> 'sel'
+  0.528s [A] << sel
+  0.531s [A] >> 'amat pa'
+  1.037s [A] << amat pa
+  1.039s [A] >> 'gi\n'
+  1.543s [A] << gi

@@ -1,0 +1,11 @@
+  0.025s [A] terhubung dari port lokal 47104
+  0.027s [A] >> 'halo dari A\n'
+  0.530s [A] << halo dari A
+  0.532s [B] terhubung dari port lokal 47116
+  0.533s [B] >> 'halo dari B\n'
+  3.038s [B] << (tidak ada balasan)
+  3.041s [A] >> 'A masih di sini\n'
+  3.546s [A] << A masih di sini
+  3.551s [A] menutup koneksi (FIN)
+  4.559s [B] << halo dari B
+  4.562s [B] echo B diterima +4.028s setelah dikirim

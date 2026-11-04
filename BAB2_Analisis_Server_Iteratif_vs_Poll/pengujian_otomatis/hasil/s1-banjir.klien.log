@@ -1,0 +1,4 @@
+  0.025s [A] terhubung dari port lokal 35868
+  0.027s [B] terhubung dari port lokal 35884
+  5.053s [B] berhasil menitip 2720256 byte ke kernel sebelum macet (lihat TCP ZeroWindow)
+  5.056s [A] menutup koneksi

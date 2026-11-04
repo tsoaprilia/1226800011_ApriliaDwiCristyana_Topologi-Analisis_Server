@@ -1,0 +1,3 @@
+cd "$(dirname "$0")/../hasil"; P() { printf "\033[1;32mwindows@WSL\033[0m:\033[1;34m~/uji_server/hasil\033[0m$ %s\n" "$1"; }
+P "cat kompilasi.txt"; cat kompilasi.txt
+P "ls *.pcap"; ls -l *.pcap | awk '{print $5"\t"$9}'

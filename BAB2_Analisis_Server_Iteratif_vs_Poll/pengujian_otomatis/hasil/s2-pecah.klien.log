@@ -1,0 +1,13 @@
+  0.025s [penerima] terhubung dari port lokal 42146
+  0.527s [penerima] << *** ketik nama Anda lalu ENTER: 
+  0.529s [penerima] >> 'penerima\n'
+  1.033s [penerima] << *** selamat datang, penerima
+  1.036s [pengirim] terhubung dari port lokal 42158
+  1.540s [pengirim] << *** ketik nama Anda lalu ENTER: 
+  1.542s [pengirim] >> 'pengirim\n'
+  2.046s [pengirim] << *** selamat datang, pengirim
+  2.549s [penerima] << *** pengirim bergabung ke ruang chat
+  2.551s [pengirim] >> 'sel'
+  3.054s [pengirim] >> 'amat pa'
+  3.557s [pengirim] >> 'gi\n'
+  4.563s [penerima] << [pengirim] selamat pagi

@@ -1,0 +1,11 @@
+2026-11-04T10:13:10Z LISTEN 127.0.0.1:5000 maks_klien=32
+2026-11-04T10:13:11Z MASUK  127.0.0.1:46626 total=1
+2026-11-04T10:13:11Z KELUAR 127.0.0.1:46626 nama=- alasan=protokol/permintaan keluar
+2026-11-04T10:13:11Z MASUK  127.0.0.1:46640 total=1
+2026-11-04T10:13:12Z KELUAR 127.0.0.1:46640 nama=- alasan=protokol/permintaan keluar
+2026-11-04T10:13:12Z MASUK  127.0.0.1:46642 total=1
+2026-11-04T10:13:13Z DAFTAR 127.0.0.1:46642 nama=rina
+2026-11-04T10:13:13Z MASUK  127.0.0.1:42140 total=2
+2026-11-04T10:13:14Z KELUAR 127.0.0.1:42140 nama=- alasan=protokol/permintaan keluar
+2026-11-04T10:13:14Z KELUAR 127.0.0.1:46642 nama=rina alasan=ditutup klien
+Terminated

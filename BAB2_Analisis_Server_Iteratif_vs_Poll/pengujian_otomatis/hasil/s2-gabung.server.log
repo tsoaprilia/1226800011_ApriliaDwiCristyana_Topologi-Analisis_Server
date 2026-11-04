@@ -1,0 +1,11 @@
+2026-11-04T10:13:24Z LISTEN 127.0.0.1:5000 maks_klien=32
+2026-11-04T10:13:25Z MASUK  127.0.0.1:33580 total=1
+2026-11-04T10:13:26Z DAFTAR 127.0.0.1:33580 nama=penerima
+2026-11-04T10:13:26Z MASUK  127.0.0.1:33588 total=2
+2026-11-04T10:13:27Z DAFTAR 127.0.0.1:33588 nama=pengirim
+2026-11-04T10:13:28Z PESAN  nama=pengirim panjang=4
+2026-11-04T10:13:28Z PESAN  nama=pengirim panjang=3
+2026-11-04T10:13:28Z PESAN  nama=pengirim panjang=4
+2026-11-04T10:13:28Z KELUAR 127.0.0.1:33580 nama=penerima alasan=ditutup klien
+2026-11-04T10:13:28Z KELUAR 127.0.0.1:33588 nama=pengirim alasan=socket error
+Terminated

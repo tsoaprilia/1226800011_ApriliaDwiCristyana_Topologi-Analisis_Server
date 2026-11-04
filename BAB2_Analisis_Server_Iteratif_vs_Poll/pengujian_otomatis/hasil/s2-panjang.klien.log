@@ -1,0 +1,13 @@
+  0.025s [saksi] terhubung dari port lokal 33598
+  0.527s [saksi] << *** ketik nama Anda lalu ENTER: 
+  0.529s [saksi] >> 'saksi\n'
+  1.033s [saksi] << *** selamat datang, saksi
+  1.035s [panjang] terhubung dari port lokal 40950
+  1.538s [panjang] << *** ketik nama Anda lalu ENTER: 
+  1.540s [panjang] >> 'panjang\n'
+  2.046s [panjang] << *** selamat datang, panjang
+  2.548s [saksi] << *** panjang bergabung ke ruang chat
+  2.550s [panjang] >> 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA... (2100 byte)'
+  2.553s [panjang] << koneksi error: [Errno 104] Connection reset by peer
+  2.555s [panjang] << !!! baris terlalu panjang
+  3.057s [saksi] << *** panjang meninggalkan ruang chat

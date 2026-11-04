@@ -1,0 +1,16 @@
+  0.031s [x1] terhubung dari port lokal 46626
+  0.533s [x1] << *** ketik nama Anda lalu ENTER: 
+  0.535s [x1] >> 'nama spasi!\n'
+  0.538s [x1] << !!! nama tidak valid (1-16 karakter: huruf, angka, _ atau -)
+  0.539s [x2] terhubung dari port lokal 46640
+  1.041s [x2] << *** ketik nama Anda lalu ENTER: 
+  1.043s [x2] >> 'nama_yang_terlalu_panjang\n'
+  1.047s [x2] << !!! nama tidak valid (1-16 karakter: huruf, angka, _ atau -)
+  1.049s [rina] terhubung dari port lokal 46642
+  1.552s [rina] << *** ketik nama Anda lalu ENTER: 
+  1.554s [rina] >> 'rina\n'
+  2.060s [rina] << *** selamat datang, rina
+  2.063s [x3] terhubung dari port lokal 42140
+  2.567s [x3] << *** ketik nama Anda lalu ENTER: 
+  2.569s [x3] >> 'rina\n'
+  2.598s [x3] << !!! nama sudah dipakai
